@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/hfendpoint/__init__.py
+src/hfendpoint/hf_endpoint.py
+src/hfendpoint.egg-info/PKG-INFO
+src/hfendpoint.egg-info/SOURCES.txt
+src/hfendpoint.egg-info/dependency_links.txt
+src/hfendpoint.egg-info/top_level.txt
